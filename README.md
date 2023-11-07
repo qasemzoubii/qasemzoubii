@@ -9,7 +9,7 @@
   </a>
 </p> 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marah-abusaleh/">
+  <a href="https://www.linkedin.com/in/qasem-zo3bi/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  
@@ -17,7 +17,6 @@
 
 
 - I'm now a <strong>Full Stack Web Developer Trainee</strong> at Orange Coding Academy
-- I'm a Computer Engineering graduate from JUST.
 - I am looking for a position as a full-stack web developer where my
 software development knowledge, research skills, and dedication will be utilized. Comes with a strong desire to learn and work simultaneously, and an eagerness to hone exceptional communication and teamwork skills.
 
