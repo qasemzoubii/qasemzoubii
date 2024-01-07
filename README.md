@@ -16,7 +16,7 @@
 </p>
 
 
-- I'm now a <strong>Full Stack Web Developer Trainee</strong> at Orange Coding Academy
+- I'm now a <strong>Full Stack Web Developer </strong> at Abdul Hameed Shoman Foundation
 - I am looking for a position as a full-stack web developer where my
 software development knowledge, research skills, and dedication will be utilized. Comes with a strong desire to learn and work simultaneously, and an eagerness to hone exceptional communication and teamwork skills.
 
