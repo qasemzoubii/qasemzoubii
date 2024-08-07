@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right"  src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"/>
 
 <h3 align="center">
   Welcome to Qasem AL-Zou'bi profile!
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a align="center" href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F79BC1&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=f75c7e&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
   </a>
 </p> 
 <p align="center">
